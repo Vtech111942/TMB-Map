@@ -1,0 +1,11 @@
+{
+  "name": "Tour du Mont Blanc Trail Map",
+  "short_name": "TMB Map",
+  "description": "Interactive Tour du Mont Blanc map with route, resupply, water, campsites, and offline GPS arrow mode.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071013",
+  "theme_color": "#ff2f6d",
+  "orientation": "any"
+}
